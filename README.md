@@ -6,7 +6,9 @@ the method is user choose an arbitrary point in our pizza and the code divide pi
 and let n be a multiple of 4 and greater than or equal to 8.
 
 -report.pdf and demo.mp4 are just for showing the results
+
 -c.png is our taken pizza image
+
 -show.py and specially pizza.py are the main codes
 
 for more information about pizza theory see:
