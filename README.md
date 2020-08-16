@@ -5,11 +5,9 @@ that arise when one partitions a disk in a certain way." and now I'm going to sh
 the method is user choose an arbitrary point in our pizza and the code divide pizza to n pieces that n determine by user
 and let n be a multiple of 4 and greater than or equal to 8.
 
--report.pdf and demo.mp4 are just for showing the results
-
--c.png is our taken pizza image
-
--show.py and specially pizza.py are the main codes
+-report.pdf and demo.mp4 are just for showing the results\\
+-c.png is our taken pizza image\\
+-show.py and specially pizza.py are the main codes\\
 
 for more information about pizza theory see:
 https://en.wikipedia.org/wiki/Pizza_theorem
